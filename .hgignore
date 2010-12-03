@@ -1,0 +1,4 @@
+relre:.project
+relre:.classpath
+relre:.settings
+relre:target
